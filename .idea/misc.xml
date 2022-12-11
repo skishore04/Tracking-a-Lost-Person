@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MissingPerson/app/src/main/res/drawable-v24/button.xml" value="0.112" />
+        <entry key="..\:/MissingPerson/app/src/main/res/drawable-v24/ic_lock.xml" value="0.248" />
+        <entry key="..\:/MissingPerson/app/src/main/res/drawable-v24/ic_person.xml" value="0.248" />
+        <entry key="..\:/MissingPerson/app/src/main/res/drawable-v24/ic_phone_.xml" value="0.248" />
+        <entry key="..\:/MissingPerson/app/src/main/res/drawable-v24/rowback.xml" value="0.141" />
+        <entry key="..\:/MissingPerson/app/src/main/res/drawable-v24/text.xml" value="0.164" />
+        <entry key="..\:/MissingPerson/app/src/main/res/font/adamina.xml" value="0.27239583333333334" />
+        <entry key="..\:/MissingPerson/app/src/main/res/font/alegreya_sc_bold.xml" value="0.27239583333333334" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_check_found_person.xml" value="0.2421875" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_check_lost_person.xml" value="0.2421875" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_contact_us.xml" value="0.2421875" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_main.xml" value="0.228125" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_report_found_person.xml" value="0.2421875" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_report_lost_person.xml" value="0.264" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_sign_up.xml" value="0.2421875" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/activity_splashactivity.xml" value="0.2421875" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/singlerow.xml" value="0.264" />
+        <entry key="..\:/MissingPerson/app/src/main/res/layout/singlerow1.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
