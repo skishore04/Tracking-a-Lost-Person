@@ -1,6 +1,6 @@
 # Tracking-a-Lost-Person
 
-This Application is about Tracking a Lost person with their Deatils and images.
+This Application is about Tracking a Lost person with their Details and images.
 
 Database used -- phpMyAdmin Mysql.
 
